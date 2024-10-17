@@ -460,7 +460,6 @@
 0.0.0.0 ns1.1899.com.mx
 0.0.0.0 ns1.dotls.org
 0.0.0.0 ns1.flodns.net
-0.0.0.0 ns1.google.com
 0.0.0.0 ns1.qquack.org
 0.0.0.0 ns2.1899.com.mx
 0.0.0.0 ns2.flodns.net
